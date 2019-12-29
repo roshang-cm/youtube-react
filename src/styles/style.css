@@ -1,0 +1,9 @@
+.login-form-item {
+
+    max-width: 300px;
+    width: 100%;
+}
+
+.grow {
+    flex-grow: 1;
+}
